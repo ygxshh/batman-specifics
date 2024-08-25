@@ -1,4 +1,64 @@
-#footer{
+center{
+    background-image: url(images/bat-logo.jpg);
+    height: 500px; 
+    background-position: center;
+    background-size: cover;
+}
+
+body{
+margin-left: 10%;
+margin-right: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
     display: table;
     text-align: center;
     margin-left: auto;
